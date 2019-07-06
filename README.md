@@ -112,3 +112,5 @@ int main() {
 	return isSmallerThan20 ? 42 : 0;
 }
 ```
+
+link - https://godbolt.org/z/ZzKTw0
