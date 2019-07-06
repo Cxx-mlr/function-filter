@@ -113,4 +113,6 @@ int main() {
 }
 ```
 
-link - https://godbolt.org/z/ZzKTw0
+first version by KonanTheBarbar - https://godbolt.org/z/M3p3-t \
+second version by Cxx - https://godbolt.org/z/ki55Qx \
+third version by KonanTheBarbar - https://godbolt.org/z/ZzKTw0
