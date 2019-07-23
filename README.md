@@ -113,6 +113,6 @@ int main() {
 }
 ```
 
-first version by KonanTheBarbar - https://godbolt.org/z/M3p3-t \
-second version by Cxx - https://godbolt.org/z/ki55Qx \
-third version by KonanTheBarbar - https://godbolt.org/z/ZzKTw0
+1: KonanTheBarbar - https://godbolt.org/z/M3p3-t \
+2: Cxx - https://godbolt.org/z/ki55Qx \
+3: KonanTheBarbar - https://godbolt.org/z/ZzKTw0
