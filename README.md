@@ -116,3 +116,7 @@ int main() {
 1: KonanTheBarbar - https://godbolt.org/z/M3p3-t \
 2: Cxx - https://godbolt.org/z/ki55Qx \
 3: KonanTheBarbar - https://godbolt.org/z/ZzKTw0
+
+## License
+
+This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for more details.
