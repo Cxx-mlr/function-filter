@@ -1,5 +1,5 @@
 # Function-Filter
-- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
+
     by: konanTheBarbar & Cxx
 ```cpp
 #define _CMP_BEGIN namespace cmp {
